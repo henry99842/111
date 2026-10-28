@@ -1,0 +1,7 @@
+{
+  "name": "詢價與技術確認協同平台",
+  "description": "企業級詢價案件與跨部門技術規格確認管理系統，支援客戶需求提報、材料製程評估、缺漏防錯、多版本管理與報價核准流程。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
