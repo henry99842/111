@@ -1,3 +1,6 @@
+return {
+  base: '/111/',
+  plugins: [react(), tailwindcss()],
 import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import path from 'path';
